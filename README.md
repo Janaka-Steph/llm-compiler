@@ -1,3 +1,6 @@
 # llm-compiler
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Janaka-Steph/llm-compiler)
+Draft implementation of LLM Compiler agent architecture
+
+https://langchain-ai.github.io/langgraph/tutorials/llm-compiler/LLMCompiler/
+https://github.com/SqueezeAILab/LLMCompiler
